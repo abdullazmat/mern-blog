@@ -1,9 +1,11 @@
+import { Button } from "flowbite-react";
+
 function Home() {
-    return (
-        <div>
-            Home
-        </div>
-    )
+  return (
+    <div>
+      <Button color="green">Greenn</Button>
+    </div>
+  );
 }
 
-export default Home
+export default Home;
